@@ -6,14 +6,14 @@
 | &#9745; | 443  |                                      [string compression](https://leetcode.com/problems/string-compression/)                                      |   **Medium**   | 2 | 
 | &#9745; | 206  |                                     [reverse linked list](https://leetcode.com/problems/reverse-linked-list/)                                     |    **Easy**    | 2 |
 | &#9745; |  22  |                                    [generate parentheses](https://leetcode.com/problems/generate-parentheses/)                                    |   **Medium**   | 2 |
-| &#9745; | 146  |                                               [lru cache](https://leetcode.com/problems/lru-cache/)                                               |   **Medium**   | 2 |
+| &#9745; | 146  |                                               [lru cache](https://leetcode.com/problems/lru-cache/)                                               |   **Medium**   | 1 |
 | &#9745; | 283  |                                             [move zeroes](https://leetcode.com/problems/move-zeroes/)                                             |    **Easy**    | 2 | 
 | &#9745; | 125  |                                        [valid palindrome](https://leetcode.com/problems/valid-palindrome/)                                        |    **Easy**    | 2 | 
 | &#9745; |  49  |                                          [group anagrams](https://leetcode.com/problems/group-anagrams/)                                          |   **Medium**   | 2 | 
 | &#9745; | 1493 |                       [longest subarray](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)                        |   **Medium**   | 2 |
 | &#9745; |  20  |                                       [valid parentheses](https://leetcode.com/problems/valid-parentheses/)                                       |    **Easy**    | 2 |
 | &#9745; | 560  |                                   [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |   **Medium**   | 2 |
-| &#9745; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | 2 |
+| &#9745; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | 1 |
 | &#9745; |  1   |                                                 [two sum](https://leetcode.com/problems/two-sum/)                                                 |    **Easy**    | 2 |
 | &#9744; |  23  |                                    [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                    |    **Hard**    |  
 | &#9744; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | 
