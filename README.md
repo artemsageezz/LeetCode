@@ -15,10 +15,10 @@
 | &#9745; | 560  |                                   [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |   **Medium**   | 2 |
 | &#9745; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | 1 |
 | &#9745; |  1   |                                                 [two sum](https://leetcode.com/problems/two-sum/)                                                 |    **Easy**    | 2 |
-| &#9744; |  23  |                                    [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                    |    **Hard**    |  
-| &#9744; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | 
-| &#9744; |  56  |                                         [merge intervals](https://leetcode.com/problems/merge-intervals/)                                         |   **Medium**   |  
-| &#9744; | 933  |                                  [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)                                  |    **Easy**    | 
+| &#9744; |  23  |                                    [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                    |    **Hard**    |   |
+| &#9745; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | 1 | 
+| &#9745; |  56  |                                         [merge intervals](https://leetcode.com/problems/merge-intervals/)                                         |   **Medium**   | 1 |
+| &#9745; | 933  |                                  [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)                                  |    **Easy**    | 1 |
 | &#9744; |  98  |                             [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)                             |   **Medium**   |  
 | &#9744; | 232  |                            [implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            |    **Easy**    | 
 | &#9744; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   |  
