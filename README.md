@@ -19,7 +19,7 @@
 | &#9745; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | 1 | 
 | &#9745; |  56  |                                         [merge intervals](https://leetcode.com/problems/merge-intervals/)                                         |   **Medium**   | 1 |
 | &#9745; | 933  |                                  [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)                                  |    **Easy**    | 1 |
-| &#9744; |  98  |                             [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)                             |   **Medium**   |  
+| &#9745; |  98  |                             [validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/)                             |   **Medium**   | 1 | 
 | &#9744; | 232  |                            [implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            |    **Easy**    | 
 | &#9744; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   |  
 | &#9744; | 1004 |                                [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)                                |   **Medium**   | 
