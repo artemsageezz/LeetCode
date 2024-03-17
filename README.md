@@ -23,10 +23,10 @@
 | &#9745; | 232  |                            [implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            |    **Easy**    | 1 |
 | &#9745; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   | 1 | 
 | &#9745; | 1004 |                                [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)                                |   **Medium**   | 1 | 
-| &#9744; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    |  
-| &#9744; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   |  
-| &#9744; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   |  
-| &#9744; |  21  |                                  [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  |    **Easy**    |  
+| &#9744; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    |   
+| &#9745; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   | 1 |  
+| &#9745; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   | 1 | 
+| &#9745; |  21  |                                  [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  |    **Easy**    | 1 | 
 | &#9744; |  88  |                                      [merge sorted array](https://leetcode.com/problems/merge-sorted-array/)                                      |    **Easy**    |  
 | &#9744; | 101  |                                          [symmetric tree](https://leetcode.com/problems/symmetric-tree/)                                          |    **Easy**    | 
 | &#9744; | 268  |                                          [missing number](https://leetcode.com/problems/missing-number/)                                          |    **Easy**    | 
