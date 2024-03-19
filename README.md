@@ -27,8 +27,8 @@
 | &#9745; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   | 1 |  
 | &#9745; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   | 1 | 
 | &#9745; |  21  |                                  [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  |    **Easy**    | 1 | 
-| &#9744; |  88  |                                      [merge sorted array](https://leetcode.com/problems/merge-sorted-array/)                                      |    **Easy**    |  
-| &#9744; | 101  |                                          [symmetric tree](https://leetcode.com/problems/symmetric-tree/)                                          |    **Easy**    | 
+| &#9745; |  88  |                                      [merge sorted array](https://leetcode.com/problems/merge-sorted-array/)                                      |    **Easy**    | 2 | 
+| &#9745; | 101  |                                          [symmetric tree](https://leetcode.com/problems/symmetric-tree/)                                          |    **Easy**    | 2 |
 | &#9744; | 268  |                                          [missing number](https://leetcode.com/problems/missing-number/)                                          |    **Easy**    | 
 | &#9744; |  48  |                                            [rotate image](https://leetcode.com/problems/rotate-image/)                                            |   **Medium**   |  
 | &#9744; |  5   |                           [longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)                           |   **Medium**   |  
