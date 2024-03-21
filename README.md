@@ -34,9 +34,9 @@
 | &#9745; |  5   |                           [longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/)                           |   **Medium**   | 2 |
 | &#9745; | 332  |                                   [reconstruct itinerary](https://leetcode.com/problems/reconstruct-itinerary/)                                   |    **Hard**    | 1 |
 | &#9745; | 658  |                                 [find k closest elements](https://leetcode.com/problems/find-k-closest-elements/)                                 |   **Medium**   | 1 |
-| &#9744; | 200  |                                       [number of islands](https://leetcode.com/problems/number-of-islands/)                                       |   **Medium**   | 
-| &#9744; | 392  |                                          [is subsequence](https://leetcode.com/problems/is-subsequence/)                                          |    **Easy**    | 
-| &#9744; | 849  |                     [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                     |   **Medium**   | 
+| &#9745; | 200  |                                       [number of islands](https://leetcode.com/problems/number-of-islands/)                                       |   **Medium**   | 1 |
+| &#9745; | 392  |                                          [is subsequence](https://leetcode.com/problems/is-subsequence/)                                          |    **Easy**    | 2 |
+| &#9745; | 849  |                     [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                     |   **Medium**   | 1 |
 | &#9744; |  4   |                             [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                             |    **Hard**    |  
 | &#9744; | 974  |                            [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                            |   **Medium**   | 
 | &#9744; |  33  |                          [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          |   **Medium**   |  
