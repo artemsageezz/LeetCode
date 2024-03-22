@@ -37,9 +37,9 @@
 | &#9745; | 200  |                                       [number of islands](https://leetcode.com/problems/number-of-islands/)                                       |   **Medium**   | 1 |
 | &#9745; | 392  |                                          [is subsequence](https://leetcode.com/problems/is-subsequence/)                                          |    **Easy**    | 2 |
 | &#9745; | 849  |                     [maximize distance to closest person](https://leetcode.com/problems/maximize-distance-to-closest-person/)                     |   **Medium**   | 1 |
-| &#9744; |  4   |                             [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                             |    **Hard**    |  
-| &#9744; | 974  |                            [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                            |   **Medium**   | 
-| &#9744; |  33  |                          [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          |   **Medium**   |  
+| &#9744; |  4   |                             [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                             |    **Hard**    |0.5| 
+| &#9745; | 974  |                            [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                            |   **Medium**   | 1 |
+| &#9745; |  33  |                          [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          |   **Medium**   | 1 |
 | &#9744; | 449  |                           [serialize and deserialize bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)                           |   **Medium**   | 
 | &#9744; | 977  |                               [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/)                               |    **Easy**    | 
 | &#9744; | 350  |                           [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                           |    **Easy**    | 
