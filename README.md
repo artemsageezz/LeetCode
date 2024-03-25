@@ -40,10 +40,10 @@
 | &#9744; |  4   |                             [median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                             |    **Hard**    |0.5| 
 | &#9745; | 974  |                            [subarray sums divisible by k](https://leetcode.com/problems/subarray-sums-divisible-by-k/)                            |   **Medium**   | 1 |
 | &#9745; |  33  |                          [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          |   **Medium**   | 1 |
-| &#9744; | 449  |                           [serialize and deserialize bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)                           |   **Medium**   | 
+| &#9744; | 449  |                           [serialize and deserialize bst](https://leetcode.com/problems/serialize-and-deserialize-bst/)                           |   **Medium**   | 1 |
 | &#9745; | 977  |                               [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/)                               |    **Easy**    | 1 |
 | &#9745; | 350  |                           [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                           |    **Easy**    | 1 |
-| &#9744; |  19  |                        [remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                        |   **Medium**   |  
+| &#9744; |  19  |                        [remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                        |   **Medium**   | 1 |
 | &#9744; |  85  |                                       [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/)                                       |    **Hard**    |  
 | &#9744; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   |  
 | &#9744; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | 
