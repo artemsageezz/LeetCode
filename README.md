@@ -45,12 +45,12 @@
 | &#9745; | 350  |                           [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                           |    **Easy**    | 1 |
 | &#9744; |  19  |                        [remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                        |   **Medium**   | 1 |
 | &#9744; |  85  |                                       [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/)                                       |    **Hard**    |  
-| &#9744; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   |  
-| &#9744; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | 
-| &#9744; | 279  |                                         [perfect squares](https://leetcode.com/problems/perfect-squares/)                                         |   **Medium**   | 
+| &#9745; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   | 1 | 
+| &#9745; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | 1 |
+| &#9745; | 279  |                                         [perfect squares](https://leetcode.com/problems/perfect-squares/)                                         |   **Medium**   | 1 |
 | &#9745; |  28  |                                        [implement strstr](https://leetcode.com/problems/implement-strstr/)                                        |    **Easy**    |0.5| 
-| &#9744; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   | 
-| &#9744; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   |  
+| &#9745; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   | 1 |
+| &#9745; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   | 1 |
 | &#9745; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | 1 |
 
 # LeetCode tasks for practice
