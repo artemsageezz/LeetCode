@@ -15,7 +15,7 @@
 | &#9745; | 560  |                                   [subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/)                                   |   **Medium**   | 2 |
 | &#9745; | 380  |                              [insert delete getrandom o1](https://leetcode.com/problems/insert-delete-getrandom-o1/)                              |   **Medium**   | 1 |
 | &#9745; |  1   |                                                 [two sum](https://leetcode.com/problems/two-sum/)                                                 |    **Easy**    | 2 |
-| &#9744; |  23  |                                    [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                    |    **Hard**    |   |
+| &#9745; |  23  |                                    [merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                    |    **Hard**    | 1 |
 | &#9745; | 567  |                                   [permutation in string](https://leetcode.com/problems/permutation-in-string/)                                   |   **Medium**   | 1 | 
 | &#9745; |  56  |                                         [merge intervals](https://leetcode.com/problems/merge-intervals/)                                         |   **Medium**   | 1 |
 | &#9745; | 933  |                                  [number of recent calls](https://leetcode.com/problems/number-of-recent-calls/)                                  |    **Easy**    | 1 |
@@ -23,7 +23,7 @@
 | &#9745; | 232  |                            [implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                            |    **Easy**    | 1 |
 | &#9745; |  59  |                                        [spiral matrix ii](https://leetcode.com/problems/spiral-matrix-ii/)                                        |   **Medium**   | 1 | 
 | &#9745; | 1004 |                                [max consecutive ones iii](https://leetcode.com/problems/max-consecutive-ones-iii/)                                |   **Medium**   | 1 | 
-| &#9744; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    |   
+| &#9745; |  42  |                                     [trapping rain water](https://leetcode.com/problems/trapping-rain-water/)                                     |    **Hard**    | 1 |
 | &#9745; |  3   |          [longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)          |   **Medium**   | 1 |  
 | &#9745; |  2   |                                         [add two numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   **Medium**   | 1 | 
 | &#9745; |  21  |                                  [merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                  |    **Easy**    | 1 | 
@@ -44,11 +44,11 @@
 | &#9745; | 977  |                               [squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/)                               |    **Easy**    | 1 |
 | &#9745; | 350  |                           [intersection of two arrays ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/)                           |    **Easy**    | 1 |
 | &#9745; |  19  |                        [remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                        |   **Medium**   | 1 |
-| &#9744; |  85  |                                       [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/)                                       |    **Hard**    |  
+| &#9744; |  85  |                                       [maximal rectangle](https://leetcode.com/problems/maximal-rectangle/)                                       |    **Hard**    | 0.3 | 
 | &#9745; |  34  | [find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |   **Medium**   | 1 | 
 | &#9745; | 150  |                        [evaluate reverse polish notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                        |   **Medium**   | 1 |
 | &#9745; | 279  |                                         [perfect squares](https://leetcode.com/problems/perfect-squares/)                                         |   **Medium**   | 1 |
-| &#9744; |  28  |                                        [implement strstr](https://leetcode.com/problems/implement-strstr/)                                        |    **Easy**    |0.5| 
+| &#9745; |  28  |                                        [implement strstr](https://leetcode.com/problems/implement-strstr/)                                        |    **Easy**    |0.7| 
 | &#9745; | 238  |                            [product of array except self](https://leetcode.com/problems/product-of-array-except-self/)                            |   **Medium**   | 1 |
 | &#9745; |  71  |                                           [simplify path](https://leetcode.com/problems/simplify-path/)                                           |   **Medium**   | 1 |
 | &#9745; | 234  |                                  [palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/)                                  |    **Easy**    | 1 |
